@@ -807,7 +807,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 .system-action-icon { background-color: rgba(0, 0, 0, 0.8); color: #fff; border-radius: 99px; icon-size: 48px; }
 
 /* Dash */
-#dash { font-size: 8pt; padding: 5px 0; border-radius: 0 10px 10px 0; border-left-width: 0; }
+#dash { font-size: 8pt; padding: 5px 0; border-radius: 10px 10px 10px 10px; border-left-width: 0; }
 
 #dash:rtl { border-radius: 10px 0 0 10px; border-right-width: 0; }
 
@@ -856,7 +856,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 #dash .progress-bar, #dashtodockContainer .progress-bar, #dashtopanelScrollview .progress-bar, #zorintaskbarScrollview .progress-bar { -progress-bar-background: white; -progress-bar-border: white; }
 
 /* Workspace pager */
-.workspace-thumbnails { visible-width: 32px; spacing: 6px; padding: 6px; border-radius: 10px 0 0 10px; border-right-width: 0; }
+.workspace-thumbnails { visible-width: 32px; spacing: 6px; padding: 6px; border-radius: 10px 10px 10px 10px; border-right-width: 0; }
 
 .workspace-thumbnails:rtl { border-radius: 0 10px 10px 0; border-left-width: 0; }
 
