@@ -1,1 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  fill="#ffffff"><rect width="18" height="12" x="5" y="8" ry="2"/><path d="M3 4c-1.108 0-2 .892-2 2v8c0 1.108.892 2 2 2V8c0-1.108.892-2 2-2h14c0-1.108-.892-2-2-2H3z" fill-opacity=".5"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="activities-avular.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="20.495578"
+     inkscape:cx="13.417528"
+     inkscape:cy="11.392701"
+     inkscape:window-width="1500"
+     inkscape:window-height="942"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">20190923_New_Logo-exporting</title>
+  <path
+     class="cls-1"
+     d="M 5.1415893,18.981342 A 0.08756148,0.08757263 0 0 1 5.0041178,18.885888 L 12.211303,6.4015342 C 12.545788,5.8209276 12.79884,5.3830646 13.157842,5.1641329 a 1.1479309,1.1480773 0 0 1 1.182955,0 c 0.359003,0.2189317 0.612932,0.6567947 0.94654,1.2374013 l 3.7021,6.4173218 a 0.08756148,0.08757263 0 0 1 -0.0079,0.09546 0.08756148,0.08757263 0 0 1 -0.118209,0.01138 C 13.748884,8.7222089 10.614183,12.458933 5.1415909,18.981342 Z"
+     id="path8"
+     style="stroke-width:0.0875665" />
+  <metadata
+     id="metadata828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>20190923_New_Logo-exporting</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
