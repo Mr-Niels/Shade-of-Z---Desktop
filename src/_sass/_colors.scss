@@ -1,0 +1,29 @@
+@import 'settings-tmp';
+@import 'color-palette';
+
+@debug "base colour = '#{$base_colour}'";
+
+$_c_background:         map-get(('black':$gray-25           ,'white':$white         ,'clay':$ebony-clay)        ,$base_colour);
+$_c_background_v3:      if(lightness($_c_background)<50%, lighten($_c_background, 3%),darken($_c_background, 3%));
+$_c_background_v9:      if(lightness($_c_background)<50%, lighten($_c_background, 9%),darken($_c_background, 9%));
+$_c_background_v15:     if(lightness($_c_background)<50%, lighten($_c_background,15%),darken($_c_background,15%));
+$_c_background_v20:     if(lightness($_c_background)<50%, lighten($_c_background,20%),darken($_c_background,20%));
+
+$_c_border:             if(lightness($_c_background)<50%, rgba($white,0.1),transparent);
+// $_c_border:             map-get(('dark':rgba($white,0.1)   ,'white':transparent    ,'clay':rgba($white,0.1))   ,$base_colour);
+$_c_text:               map-get(('black':$white             ,'white':$black         ,'clay':$white)             ,$base_colour);
+$_c_text_insensitive:   if(lightness($_c_text)<50%, lighten($_c_text,45%),darken($_c_text,45%));
+$_c_shadow:             black;
+
+$_o_background:         0.95;
+$_o_background_1:       0.75;
+$_o_background_2:       0.075;
+$_o_background_hover:   0.15;
+$_o_background_focus:   0.15;
+$_o_background_active:  0.2;
+
+$_o_shadow:             if(lightness($_c_background)<50%, 0.4, 0.2);
+$_o_shadow_m:           0.15;
+
+
+@debug "_c_border : #{$_c_border}";

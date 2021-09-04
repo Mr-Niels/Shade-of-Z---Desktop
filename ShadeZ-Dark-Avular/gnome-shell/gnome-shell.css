@@ -1,3 +1,9 @@
+
+
+
+
+
+
 /* This stylesheet is generated, DO NOT EDIT */
 /* Copyright 2009, 2015 Red Hat, Inc. Portions adapted from Mx's data/style/default.css Copyright 2009 Intel Corporation This program is free software; you can redistribute it and/or modify it under the terms and conditions of the GNU Lesser General Public License, version 2.1, as published by the Free Software Foundation. This program is distributed in the hope it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details. You should have received a copy of the GNU Lesser General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St - Fifth Floor, Boston, MA 02110-1301 USA. */
 /* Global Values */
@@ -80,7 +86,7 @@ StEntry StLabel.hint-text { margin-left: 2px; color: rgba(255, 255, 255, 0.5); }
 .toggle-switch:checked { background-image: url("assets/toggle-on-dark.svg"); }
 
 /* Slider */
-.slider { height: 15px; -barlevel-height: 3px; -barlevel-background-color: rgba(255, 255, 255, 0.075); -barlevel-border-width: 0; -barlevel-border-color: transparent; -barlevel-active-background-color: #ffffff; -barlevel-active-border-color: transparent; -barlevel-overdrive-color: #fb7c7c; -barlevel-overdrive-border-color: transparent; -barlevel-overdrive-separator-width: 2px; -slider-handle-radius: 7.5px; -slider-handle-border-width: 2px; -slider-handle-border-color: #ffffff; color: #202020; }
+.slider { height: 15px; -barlevel-height: 3px; -barlevel-background-color: rgba(255, 255, 255, 0.075); -barlevel-border-width: 0; -barlevel-border-color: transparent; -barlevel-active-background-color: #EE1E47; -barlevel-active-border-color: transparent; -barlevel-overdrive-color: #EE1E47; -barlevel-overdrive-border-color: transparent; -barlevel-overdrive-separator-width: 2px; -slider-handle-radius: 7.5px; -slider-handle-border-width: 2px; -slider-handle-border-color: #ffffff; color: #202020; }
 
 .slider:hover { color: #191919; }
 
